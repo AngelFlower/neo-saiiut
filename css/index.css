@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(62, 143, 93, 1);
+}
+
+.container-login {
+    width: 100vh;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-login {
+    display: flex;
+    align-items: center;
+}
+
+.cuervo-login {
+    width: 45%;
+    transform: scaleX(-1);
+}
